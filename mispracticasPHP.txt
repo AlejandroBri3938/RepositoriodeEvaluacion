@@ -1,0 +1,9 @@
+ejercicios de PHP realizados en el parcial 1
+Creando el primer programa en PHP: en esta practica creamos el calsico "Hola Mundo" en PHP
+Variables en PHP: en esta practica creamos variables de tipo String en PHP
+Estructura Condicional Simple (IF): en esta practica creamos instruciones y condiciones en PHP
+Estructuras Repetitivas (For, While y Do While): en esta practica usamos codigos similares en PHP
+Arrays: en esta practica creamos mapas ordenados usando la funcion Array en PHP
+Agregar elementos al Array: en esta practica agregamos elementos a los arrays de la practica anterior
+
+
